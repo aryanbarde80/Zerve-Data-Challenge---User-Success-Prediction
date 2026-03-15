@@ -1,0 +1,26 @@
+id: 9ebe2fa5-23a0-4861-a84d-919dfd648ae1
+name: hackathons Canvas
+type: 1
+canvas_id: 3fcaa66e-f633-4916-bc9d-fe5205baf1c7
+blocks:
+- auto_size: false
+  canvas_id: 3fcaa66e-f633-4916-bc9d-fe5205baf1c7
+  compute_settings:
+    compute_environment_type: 1
+  description: Trains ensemble ML models to predict user success from 409K event records
+    using advanced feature engineering including engagement velocity, RFM metrics,
+    and composite scoring; evaluates Random Forest, Gradient Boosting, and Neural
+    Network with business impact analysis and segmentation.
+  height: 1000
+  id: 44ecc412-9f59-456c-9fa6-d678f04875f6
+  layer_id: 9ebe2fa5-23a0-4861-a84d-919dfd648ae1
+  name: Example Dataset
+  parent_id: null
+  properties: {}
+  status: 3
+  type: 1
+  variables: null
+  width: 1600
+  x: 0
+  y: 0
+edges: []
